@@ -2,6 +2,8 @@
 # Customize
 #
 
+EDITOR=vi
+
 # Prompt
 PS1="[\D{%Y-%m-%d} \t \u@\h:\w]\n$ "
 
